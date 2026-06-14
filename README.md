@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Saima Khan 👋
 
-<!--
-**Saimakhan013/Saimakhan013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI & Full-Stack Developer
 
-Here are some ideas to get you started:
+🚀 Building AI-powered applications with Python, TensorFlow, React, Node.js and MongoDB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Project
+- GlamAI – AI-Powered Skincare Intelligence Platform
+
+### Tech Stack
+- Python
+- TensorFlow
+- OpenCV
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+
+### Interests
+- Artificial Intelligence
+- Cloud Computing
+- Machine Learning
+- Full-Stack Development
+- MLOps
+
+### Connect With Me
+- GitHub: https://github.com/Saimakhan013
